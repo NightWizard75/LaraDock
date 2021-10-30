@@ -1,0 +1,2 @@
+# LaraDock
+Уменьшенная версия LaraDock 
